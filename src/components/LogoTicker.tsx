@@ -17,7 +17,7 @@ const LogoTicker = () => {
   return (
     <div className="bg-black text-white pt-[72px] lg:pt-[102px] pb-[30px] overflow-hidden">
       <h2 className="text-xl text-center text-white/80 mb-14">
-        Trusted by the world's most innovative companies
+        Trusted by the world&apos;s most innovative companies
       </h2>
       <div className="relative">
         {/* Fade effect containers */}

@@ -11,7 +11,6 @@
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "clsx": "^2.1.1",
-    "email-js": "^2.0.3",
     "framer-motion": "^11.3.19",
     "next": "14.2.4",
     "react": "^18",

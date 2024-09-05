@@ -185,7 +185,7 @@ const Hero = () => {
             transition={{ delay: 0.7, duration: 0.8 }}
           >
             Looking for a web designer who cares about your business as much as
-            you do? Let's work together to build a website that not only looks
+            you do? Let&apos;s work together to build a website that not only looks
             amazing but also drives conversions and grows your business.
           </motion.p>
         </motion.div>

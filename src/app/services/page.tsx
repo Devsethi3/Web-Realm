@@ -131,7 +131,7 @@ const Services: React.FC = () => {
             <p className="text-lg max-w-3xl mx-auto mb-8">
               Partnering with us means leveraging our expertise to enhance your
               digital presence. Our services help you increase visibility,
-              engage more customers, and drive conversions. Whether it's through
+              engage more customers, and drive conversions. Whether it&apos;s through
               a stunning website, effective SEO, or a comprehensive digital
               marketing strategy, we provide solutions that benefit your
               business in the long run.
