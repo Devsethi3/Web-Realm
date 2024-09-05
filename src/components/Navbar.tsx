@@ -94,9 +94,9 @@ const Navbar = () => {
       title: "Services",
       href: "#services",
       dropdown: [
-        { title: "Web Development", href: "#" },
-        { title: "Web Design", href: "#" },
-        { title: "SEO Optimization", href: "#" },
+        { title: "Web Development", href: "#services" },
+        { title: "Web Design", href: "#services" },
+        { title: "SEO Optimization", href: "#services" },
       ],
     },
     // {
