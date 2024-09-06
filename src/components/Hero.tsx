@@ -223,4 +223,3 @@ const Hero = () => {
 
 export default Hero;
 
-// Make this hero section in emerald theme, change these colors and implement the colors which is in emerald theme linear-gradient(to_right,#F87AFF,#FB93D0,#FFDD99,#C3F0B2,#2FD8FE)]
