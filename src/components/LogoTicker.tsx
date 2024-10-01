@@ -26,7 +26,7 @@ const LogoTicker = () => {
 
         {/* Logo slider */}
         <div className="flex animate-slide">
-          {/* First set of images */}
+          {/* First set of */}
           <div className="flex flex-nowrap">
             {images.map((img, i) => (
               <Image
