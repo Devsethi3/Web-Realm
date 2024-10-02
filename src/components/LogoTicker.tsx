@@ -20,7 +20,6 @@ const LogoTicker = () => {
         Trusted by the world&apos;s most innovative companies
       </h2>
       <div className="relative">
-        {/* */}
         <div className="absolute top-0 left-0 w-1/12 h-full bg-gradient-to-r from-black to-transparent z-10"></div>
         <div className="absolute top-0 right-0 w-1/12 h-full bg-gradient-to-l from-black to-transparent z-10"></div>
 
