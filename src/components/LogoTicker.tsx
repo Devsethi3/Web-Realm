@@ -23,7 +23,7 @@ const LogoTicker = () => {
         <div className="absolute top-0 left-0 w-1/12 h-full bg-gradient-to-r from-black to-transparent z-10"></div>
         <div className="absolute top-0 right-0 w-1/12 h-full bg-gradient-to-l from-black to-transparent z-10"></div>
 
-        {/* slider */}
+        {/* */}
         <div className="flex animate-slide">
           {/* First */}
           <div className="flex flex-nowrap">
