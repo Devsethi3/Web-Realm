@@ -24,7 +24,6 @@ const LogoTicker = () => {
         <div className="absolute top-0 right-0 w-1/12 h-full bg-gradient-to-l from-black to-transparent z-10"></div>
 
         <div className="flex animate-slide">
-          {/*  */}
           <div className="flex flex-nowrap">
             {images.map((img, i) => (
               <Image
