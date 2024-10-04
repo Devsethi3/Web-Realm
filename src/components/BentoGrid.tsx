@@ -1,4 +1,4 @@
-// BentoGrid
+
 import { BentoCard, BentoGrid } from "./BentoGridWrapper";
 import {
   FaBell,
