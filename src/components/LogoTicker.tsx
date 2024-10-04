@@ -35,7 +35,7 @@ const LogoTicker = () => {
               />
             ))}
           </div>
-          {/*  set for loop */}
+          {/*  set for */}
           <div className="flex flex-nowrap">
             {images.map((img, i) => (
               <Image
