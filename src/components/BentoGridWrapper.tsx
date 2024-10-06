@@ -1,4 +1,4 @@
-// BentoGridWrapper.tsx
+// BentoGridWrapper
 import { ReactNode } from "react";
 import { cn } from "@/lib/utils";
 import { FaArrowRight } from "react-icons/fa";
