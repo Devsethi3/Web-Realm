@@ -1,4 +1,4 @@
-// Feature.tsx
+// Feature
 "use client";
 
 import React, { useEffect, useRef, ReactNode } from "react";
