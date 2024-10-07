@@ -13,7 +13,6 @@ const Home = () => {
   return (
     <>
       <Hero />
-      {/* <LogoTicker /> */}
       <About />
       <Features />
       <Showcase />
