@@ -18,7 +18,7 @@ const CallToAction = () => {
 
   const translateY = useTransform(scrollYProgress, [0, 1], [40, -40]);
 
-  // Email validation
+  // Email 
   const validateEmail = (email: string) => {
     const re = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
     return re.test(email);
