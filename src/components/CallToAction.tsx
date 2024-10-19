@@ -9,7 +9,7 @@ import { toast } from "react-hot-toast";
 const CallToAction = () => {
   const containerRef = useRef<HTMLDivElement>(null);
   const formRef = useRef<HTMLFormElement>(null);
-  const [loading, setLoading] = useState(false); // Loading state
+  const [loading, setLoading] = useState(false); // Loading 
 
   const { scrollYProgress } = useScroll({
     target: containerRef,
