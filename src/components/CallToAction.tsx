@@ -23,7 +23,7 @@ const CallToAction = () => {
     return re.test(email);
   };
 
-  // Handle form submis
+  // Handle form 
   const sendEmail = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
 
